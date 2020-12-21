@@ -1,11 +1,14 @@
 {
-  "posts": [
+  "roster": [
     {
       "id": 1,
-      "title": "hello"
+      "shift": "Night",
+      "start":"8:00",
+      "interval":"2"
     }
   ],
   "profile": {
-    "name": "typicode"
-  }
+    "name": "guard"
+  },
+  "data":{}
 }
