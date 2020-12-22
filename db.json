@@ -4,7 +4,9 @@
       "id": 1,
       "shift": "Night",
       "start":"8:00",
-      "interval":"2"
+      "interval":"2",
+      "codeCount":"4",
+      "password":"1234"
     }
   ],
   "profile": {
